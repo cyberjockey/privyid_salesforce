@@ -357,7 +357,7 @@
                                                                 <div class="fullEdit">Kami informasikan untuk pengaduan Anda pada.</div>
                                                                 
                                                                 <div class="fullEdit"><b>Tiket : {!Case.CaseNumber} </b></div>
-                                                                <div class="fullEdit"><b>Case Category : {!Case.Subject_Category__c}</b></div>
+                                                                <div class="fullEdit"><b>Subject Category : {!Case.Subject_Category__c}</b></div>
                                                                 <div class="fullEdit"><b>Telah kami bantu selesaikan.</b></div>
                                                                 <br></br>
                                                                 <table></table>

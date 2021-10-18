@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+<head>
+<title>Ada yang Bisa Kami Bantu Kembali?</title><link rel="SHORTCUT ICON" href="/e/ref.ico" />
+	<meta name="robots" content="noindex, nofollow">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="x-apple-disable-message-reformatting">
+    
+    <title>PrivyID</title>
+
+    <link rel="icon" type="image/x-icon" href="https://privy.id/assets/upload/privyid-favicon.png">
+    <style>      
+      /* Client-specific styles */
+      .ExternalClass {
+        width:100%;
+      }
+      .ExternalClass,  
+      .ExternalClass p,  
+      .ExternalClass span,  
+      .ExternalClass font,  
+      .ExternalClass td,  
+      .ExternalClass div {
+        line-height:100%;
+      }
+      body {
+        background-image:none;
+        background-repeat:repeat;
+        background-position:top left;
+        background-attachment:scroll;
+      }
+      img {
+        display:block;
+        border:none;
+        outline:none;
+        text-decoration:none;
+        -ms-interpolation-mode:bicubic;
+      }
+      table td,  table th {
+        border-collapse:collapse;
+      }
+      table {
+        border-collapse:collapse;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        table-layout:fixed;
+      }
+      tr {
+        border-collapse:collapse;
+      }
+      table table {
+        table-layout:auto;
+      }
+      a, 
+      a:link {
+        color:#f21010;
+        text-decoration:none;
+      }
+      a img {
+        border:none;
+      }
+      body, table, td, a {
+        -webkit-text-size-adjust:100%;
+        -ms-text-size-adjust:100%;
+      }
+      /* Reset styles */
+      img {
+        border:0 !important;
+        height:auto;
+        line-height:100%;
+        outline:none;
+        text-decoration:none;
+      }
+      table td {
+        border-collapse:collapse !important;
+      }
+      body {
+        height:100% !important;
+        margin:0 auto !important;
+        padding:0 !important;
+        width:100% !important;
+        color:#000000;
+        font-size:16px;
+        font-weight:400;
+        background-color:#f9fbfc !important;
+      }
+      /* iOS blue links */
+      a[x-apple-data-detectors] {
+        color:inherit !important;
+        text-decoration:none !important;
+        font-size:inherit !important;
+        font-family:inherit !important;
+        font-weight:inherit !important;
+        line-height:inherit !important;
+      }
+      /* Global styles */
+      body {
+        font-family: 'Open Sans','Arial', sans-serif;
+        line-height:20px;
+        font-size:16px;
+        font-weight:400;
+        color:#000000;
+      }
+      a:link {
+        color:#f21010;
+        text-decoration:none  
+      }
+      a:visited {
+        color:#f21010;
+        text-decoration:none 
+      }
+      a:hover {
+        color:#f21010 !important;
+        text-decoration:underline !important;
+      }
+      a.blog-link {
+        color:#000000 !important;
+      }
+      
+      a.blog-link:hover {
+        text-decoration:none !important;
+      }
+      a:active {
+        color:#f21010;
+        text-decoration:none  
+      }
+      a.white-link {
+        color:#ffffff;
+        text-decoration:underline;
+      }
+      a.white-link:hover {
+        color:#f21010 !important;
+        text-decoration:underline !important;
+      }
+      a.dark-link {
+        color:#000000;
+        text-decoration:none;
+      }
+      a.dark-link:hover {
+        color: #000000!important;
+      }
+      a.lg-red {
+				width: 95%;
+				margin: 0 auto;
+				border: none;
+				height: 1px;
+				color: #f21010;
+				background-color: #f21010;
+			}
+      /* Button style */
+      .privyid-button, .privyid-button-white, .privyid-button-black {
+        display:inline-block;
+        padding:15px 35px 15px 35px;
+        cursor:pointer;
+        border-style:solid;
+        border-width:2px;
+        border-radius:2px;
+        -webkit-border-radius:2px;
+        line-height:1em;
+      }
+      .privyid-button > a, .privyid-button-white > a, .privyid-button-black > a {
+        display:block;
+        text-decoration:none;
+        font-weight:bold;
+        font-size:16px;
+        line-height:1em;
+        color:inherit;
+      }
+      .privyid-button {
+        background-color:#f21010;
+        border-color:#f21010;
+        color:#FFFFFF;
+      }
+      .privyid-button-white {
+        background-color:transparent;
+        border-color:#f21010;
+        color:#f21010;
+      }
+      .privyid-button-black {
+        background-color:#000000;
+        border-color:#000000;
+        color:#ffffff;
+      }
+      .privyid-button:hover {
+        background-color:#e11111 !important;
+        border-color:#e11111 !important;
+        color:#FFFFFF !important;
+      }
+      .privyid-button-white:hover {
+        background-color:#f21010 !important;
+        border-color:#f21010 !important;
+        color:#FFFFFF !important;
+      }
+      .privyid-button-black:hover {
+        background-color:#282828 !important;
+        border-color:#282828 !important;
+        color:#ffffff !important;
+      }
+      .privyid-button:hover > a {
+        color:#FFFFFF !important;
+      }
+      .privyid-button-white:hover > a {
+        color:#FFFFFF !important;
+      }
+      .privyid-button-black:hover > a {
+        color:#000000 !important;
+      }
+      .privyid-button > a:hover, .privyid-button-black > a:hover, .privyid-button-white a:hover {
+        text-decoration:none !important;
+        color:inherit !important;
+      }
+      .privyid-button:active, .privyid-button-black:active, .privyid-button-white:active {
+        position:relative !important;
+        top:1px !important;
+      }      
+      .cta-arrow {
+        display:inline;
+        font-weight:600;
+        color:#006ff9 !important;
+        text-decoration:none !important;
+      }
+      .mob-break {
+        display:none;
+      }
+      .display-inline {
+        display:inline-block;
+      }
+      a.whitehover:active, a.whitehover:hover, a.whitehover:visited, a.whitehover:link {
+        color:#ffffff !important;
+      }
+      .header-copy {
+        font-size:16px;
+        line-height:24px;
+      }
+
+ 			 @media screen and (max-width:600px) {
+        .img-max {width:100% !important; max-width:100% !important; height:auto !important; min-width:100px !important; }
+        .container { width:100% !important; max-width:600px !important; height:auto !important; min-width:0 !important; }
+        .no-pad-bottom-center { padding-bottom:0px !important; margin-left:auto !important; margin-right:auto !important; float:none !important; }
+        .max-width, .max-width-no-pad { max-width:100% !important; width:100% !important; }
+        .main-banner { width:100% !important; height:auto !important; }
+        .spacer { width:100% !important; }
+        .img-center { margin-left:auto !important; margin-right:auto !important; }
+        .two-col-icons{ width:50% !important; height:50% !important; display:block; }
+        .ctaboxes50 td { width:100% !important; }
+        .cta-max-width { max-width:calc(100% - 60px) !important; width:100% !important; margin-left:0px !important; margin-right:0px !important; padding-left:0px !important; padding-right:0px !important; }
+        .no-pad-mob { padding:0px !important; }
+        .no-pad-top-mob { padding-top:0px !important; }
+        .img-max.pdf-pad-mob { width:240px !important; margin:0px auto !important; padding:30px 0px 0px 0px; }
+        .align-center, .center-mob { text-align:center !important; }
+        .mob-hide { display:none; }
+        .mob-pad-left-40 { padding-left:40px !important; }
+        .mob-pad-right-40 { padding-right:40px !important; }
+        .mob-pad-bottom-40 { padding-bottom:40px !important; }
+        .mob-pad-bottom-20 { padding-bottom:20px !important; }
+        .mob-pad-bottom-10 { padding-bottom:10px !important; }
+        .mob-pad-top-40 { padding-top:40px !important; }
+        .mob-pad-top-20 { padding-top:20px !important; }
+        .mob-pad-top-10 { padding-top:10px !important; }
+        .mob-no-pad-top { padding-top:0px !important; }
+        .mob-no-pad-left { padding-left:0px !important; }
+        .mob-no-pad-right { padding-right:0px !important; }
+        .mob-break { display:block !important; }
+        .mob-ctacopy-width { width:90% !important; max-width:90% !important; }
+        .footer-max-width { width:80% !important; }
+        .header-copy { font-size:12px !important; }
+        .logo { width:120px !important; }
+        .full-width { width:100% !important; }        
+        .pad-bottom-20 { padding-bottom:20px !important; }        
+        .pad-left-25 { padding-left:19% !important; }        
+        .block { display:block !important; }
+        .no-margin { margin:0 !important; width:auto !important; }
+        .mob-pad-top { padding-top:20px !important; }
+        .mob-pad-bottom { padding-bottom:20px !important; }
+        .mob-height-40 { height:auto !important;padding-top:10px !important; }
+        .mob-margin-bottom-40 { margin-bottom:40px!important;}
+        .mob-no-float {float:none!important;}
+      }
+      @media only screen and (max-width:480px) {
+        table.max-width {height:auto !important;}
+        .container {margin:0 auto !important;}
+        .fluid {width:100% !important;}
+      }      
+      @media only screen and (min-width:600px){
+        .align-left--large {text-align: left!important;float:left!important;}
+        .align-right--large {text-align: right!important;float:right!important;}
+      	.header-content {padding-left:0px !important; padding-right:0px !important;}
+        .row--left {width:50%;float:left;}
+        .row--right {width:50%;float:right;}
+        .desktop-half {width: 50%;}
+      }     
+
+  	</style>
+</head>
+
+<table bgcolor="#f9fbfc" border="0" cellpadding="0" cellspacing="0" style="padding-top:0px; padding-right:0px; padding-bottom:0px; padding-left:0px; mso-cellspacing:0px; mso-padding-alt:0px 0px 0px 0px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; background-color:#f9fbfc; margin:0 auto;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" style="width:100%; text-align:center; padding-top:0px; padding-bottom:0px; mso-padding-alt:0px 0px 0px 0px;">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" style="display:table; width:600px; margin:0 auto !important; padding:0px; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse;" width="600">
+				<tbody>
+					<tr class="module" data-description="H1 Header with PrivyID Logo" data-id="H1">
+						<td align="center" bgcolor="#ffffff" style="padding-top:30px; padding-right:0px; padding-bottom:10px; padding-left:0px; background-color:#ffffff; width:100%;" valign="bottom" width="100%">
+						<table align="left" border="0" cellspacing="0" style="padding:0; margin:0; padding-top:0;padding-right:0px;padding-bottom:0px;padding-left:0px; border-collapse:collapse; color:#000000; width:100%; font-family:'Arial',sans-serif;" width="100%">
+							<tbody>
+								<tr>
+									<td align="center" style="width:100%;" valign="middle" width="100%"><!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+                    <tr>
+                    <td align="center" valign="top" width="50%">
+                    <![endif]-->
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="max-width" style="float:none!important;width:295px; mso-cellspacing:0px; mso-padding-alt:0px; border-collapse:collapse" width="295">
+										<tbody>
+											<tr>
+												<td align="center" class="no-pad-mob center-mob" style="line-height:1; padding:0;" valign="top" width="100%"><a href="https://privy.id" style="display: inline-block;" target="_blank"><img alt="PrivyID" border="0" class="logo" src="https://privy.id/assets/cache/upload/privyid-logo-colored-264x64.png" style="width:114px; color:#000000;" width="114"> </a></td>
+											</tr>
+										</tbody>
+									</table>
+									<!--[if (gte mso 9)|(IE)]>
+                    </td>
+                    </tr>
+                    </table>
+                    <![endif]-->
+
+									<table border="0" cellpadding="10" cellspacing="0" width="523">
+										<tbody>
+											<tr>
+												<td style="" class="">
+												<hr class="lg-red"></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<tr class="module" data-description="T1 Single column text with CTA" data-id="T1"><!-- T1 Single column text with CTA -->
+									<td align="center" style="padding:0px 0px 0px 0px; mso-padding-alt:0px 0px 0px 0px; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="max-width" style="float:none!important;width:295px; mso-cellspacing:0px; mso-padding-alt:0px; border-collapse:collapse" width="295">
+										<tbody>
+											<!-- <tr>
+												<td align="center" class="main-banner" style="line-height:1; padding:0;" valign="top" width="100%"><a href="https://privy.id/?utm_source=pardot&amp;utm_medium=email&amp;utm_campaign=autoresponder_white_paper&amp;utm_content=homepage" style="display: inline-block;" target="_blank"><img alt="PrivyID Main Banner" border="0" class="main-banner" src="https://go.privy.id/l/863572/2021-07-29/n3s66t/863572/16275313717kJc1IFB/header_indo.png" style="width:535px; color:#000000;" width="515"> </a></td>
+											</tr> -->
+										</tbody>
+									</table>
+
+									<table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="background-color:#ffffff; mso-cellspacing:0px; mso-padding-alt:0px; border-collapse:collapse" width="100%">
+										<tbody>
+											<tr>
+												<td align="left" style="padding:40px 40px 15px 40px; font-family:'Open Sans','Arial',sans-serif; font-weight:400; color:#000000; font-size:16px; line-height:24px" valign="top">
+												<table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="mso-cellspacing:0px; mso-padding-alt:0px; border-collapse:collapse" width="100%">
+													<tbody>
+														<tr>
+															<td class="">
+                                                                <div style="font-size: 21px; font-weight: 600; margin: 0px 0px 20px; line-height: 1.1; position: relative;">Apakah ada yang bisa kami bantu kembali?</div>
+
+                                                                <div class="fullEdit" style="font-family: Open Sans, Arial, sans-serif; font-weight: 400; color: rgb(0, 0, 0); font-size: 16px; line-height: 24px; position: relative;">Dear {!Case.Contact}</div>
+                                                                <br></br>
+                                                                <div class="fullEdit">Kami informasikan untuk pengaduan Anda pada.</div>
+                                                                
+                                                                <div class="fullEdit"><b>Tiket : {!Case.CaseNumber} </b></div>
+                                                                <div class="fullEdit"><b>Case Category : {!Case.Subject_Category__c}</b></div>
+                                                                <div class="fullEdit"><b>Telah kami bantu selesaikan.</b></div>
+                                                                <br></br>
+                                                                <table></table>
+                                                                <div class="fullEdit">Apabila Anda tidak membalas/merespon email terakhir yang telah kami kirimkan dalam kurun waktu 1*24 jam, maka tiket tersebut akan ditutup otomatis oleh sistem kami.</div>
+                                                                <br></br>
+                                                                <div class="fullEdit">Sebagai informasi tambahan, apabila tiket sudah ditutup oleh sistem maka tim kami tidak dapat menangani permasalahan Anda kembali.</div>
+                                                                <br></br>
+                                                                <div class="fullEdit">Demikian yang dapat kami sampaikan.</div>
+                                                                <br></br>
+                                                                <div class="fullEdit">Salam hangat,</div>
+                                                                <br></br>
+                                                                <br></br>
+                                                                <br></br>
+                                                                <div class="fullEdit">PT Privy Identitas Digital</div>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<!-- T1 Single column text with CTA -->
+								</tr>
+								<tr class="module" data-description="T1b CTA" data-id="T1b"><!-- T1b CTA -->
+									<td align="center" id="dnuxdwtdif" style="padding:0px 0px 10px 0px; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse" valign="top">
+									<table align="left" border="0" cellpadding="0" cellspacing="0" style="mso-cellspacing:0px; mso-padding-alt:0px; border-collapse:collapse" width="100%">
+										<tbody>
+											<tr>
+												<td align="center" bgcolor="#ffffff" class="max-width" style="width:100%; max-width:600px; background-color:#ffffff;padding:15px 40px 40px 40px; mso-padding-alt:15px 40px 40px 40px;" valign="top" width="100%"><!--[if (gte mso 9)|(IE)]>
+                            <table align="center" border="0" cellspacing="0" cellpadding="0" style="mso-cellspacing:0px; mso-padding-alt:0px; border-collapse:collapse;">
+                            <tr>
+                            <td>
+                            <![endif]-->
+												<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-cellspacing:0px; mso-padding-alt:0px; border-collapse:collapse;text-align:center;">
+													<tbody>
+														<!-- <tr>
+															<td align="left" bgcolor="#f21010" class="privyid-button" pardot-data="" style="text-align: center; float: left; display: inline-block; padding: 15px 35px; cursor: pointer; border-style: solid; border-width: 0px; border-radius: 2px; border-color: rgb(242, 16, 16); color: rgb(255, 255, 255); background: rgb(225, 17, 17); line-height: 1em;"><a class="buttonEdit" href="https://go.privy.id/l/863572/2021-07-26/n3hgzm/863572/1627357340zvfUCG6F/PrivyID_FDA_Whitepaper_final_1.pdf" style="display:inline-block;text-decoration:none !important;font-weight:600;font-size:16px;font-family: Open Sans,Arial,sans-serif;color:#ffffff;" target="_blank">Unduh Sekarang</a></td>
+														</tr> -->
+													</tbody>
+												</table>
+												<!--[if (gte mso 9)|(IE)]>
+                            </td>
+                            </tr>
+                            </table>
+                            <![endif]--></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<!-- T1b CTA -->
+								</tr>
+								<tr class="module" data-description="T1 Single column text with CTA" data-id="T1"><!-- T1 Single column text with CTA -->
+									<td align="center" style="padding:0px 0px 0px 0px; mso-padding-alt:0px 0px 0px 0px; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse" valign="top">
+									<table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="background-color:#ffffff; mso-cellspacing:0px; mso-padding-alt:0px; border-collapse:collapse" width="100%">
+										<tbody>
+											<tr>
+												<td align="left" style="padding:0px 40px 15px 40px; font-family:'Open Sans','Arial',sans-serif; font-weight:400; color:#000000; font-size:16px; line-height:24px" valign="top">
+												<table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="mso-cellspacing:0px; mso-padding-alt:0px; border-collapse:collapse" width="100%">
+													<tbody>
+														<!-- <tr>
+															<td class="">
+															<div class="fullEdit" style="font-family: Open Sans, Arial, sans-serif; font-weight: 400; color: rgb(0, 0, 0); font-size: 14px; line-height: 24px; position: relative;">Baca juga studi kasus melalui&nbsp;<a class="link" href="https://privy.id/id/studi-kasus?utm_source=pardot&amp;utm_medium=email&amp;utm_campaign=autoresponder_white_paper&amp;utm_content=studikasus"><em>link berikut</em></a>&nbsp;untuk mengetahui lebih lanjut.</div>
+															</td>
+														</tr> -->
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<!-- T1 Single column text with CTA -->
+								</tr>
+							</tbody>
+						</table>
+
+						<table border="0" cellpadding="0" cellspacing="0" width="523">
+							<tbody>
+								<tr>
+									<td style="" class="">
+									<hr class="lg-red"></td>
+								</tr>
+							</tbody>
+						</table>
+
+						<table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" data-description="Body" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px; mso-cellspacing: 0px; mso-padding-alt: 0px 0px 0px 0px; border-collapse:collapse; mso-table-lspace:0pt;mso-table-rspace:0pt; background-color: #ffffff;margin: 0 auto;" width="100%">
+							<tbody>
+								<tr>
+									<td align="center" style="text-align: center;padding-top:0px;padding-bottom:20px;mso-padding-alt: 0px 0px 20px 0px;width:100%;">
+									<table align="center" bgcolor="" border="0" cellpadding="0" cellspacing="0" class="container" style="display: table; width: 600px; background-color: transparent; margin: 0 auto !important; padding: 0px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse:collapse;" width="600">
+										<tbody><!-- Footer -->
+											<tr class="module" data-description="M20 Footer" data-id="M20">
+												<td align="center" data-template-container="" id="templateFooter" style="max-width:600px;padding:20px 40px 50px 40px; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse;" valign="top"><!--[if (gte mso 9)|(IE)]> <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" style="max-width:600px;"> <tr> <td align="center" valign="top" width="100%" style="width:100%; max-width:600px;"> <![endif]-->
+												<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;max-width: 600px !important;" width="100%">
+													<tbody>
+														<tr>
+															<td style="max-width: 600px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border-top: 0;border-bottom: 0;padding-top: 0;padding-bottom: 0;" valign="top"><!-- Social Icons -->
+															<table border="0" cellpadding="0" cellspacing="0" style="max-width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																<tbody>
+																	<tr>
+																		<td style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top" class="">
+																		<div style="word-break: break-word;color: #FFFFFF;font-family: Open Sans, Arial, sans-serif;font-size: 13px;line-height: 150%;text-align: center;">
+																		<table border="0" cellpadding="0" cellspacing="0" style="max-width:600px;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																			<tbody>
+																				<tr>
+																					<td align="center" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top">
+																					<table border="0" cellpadding="0" cellspacing="0" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																						<tbody>
+																							<tr>
+																								<td align="center" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+																								<table border="0" cellpadding="0" cellspacing="0" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																									<tbody>
+																										<tr>
+																											<td align="center" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top">
+																											<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+																												<tbody>
+																													<tr>
+																														<td align="center" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top"><!--[if mso]> <table align="center" border="0" cellspacing="0" cellpadding="0"> <tr> <![endif]--><!--[if mso]> <td align="center" valign="top"> <![endif]-->
+																														<table align="left" border="0" cellpadding="0" cellspacing="0" style="display: inline;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+																															<tbody>
+																																<tr>
+																																	<td style="padding: 0 6px 0 6px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top">
+																																	<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																																		<tbody>
+																																			<tr>
+																																				<td align="left" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle">
+																																				<table align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="">
+																																					<tbody>
+																																						<tr>
+																																							<td align="center" style="line-height:1;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle" width="28" class=""><a href="https://www.facebook.com/privyid/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-weight: normal;text-decoration: none;" target="_blank"><img height="28" src="https://go.privy.id/l/863572/2021-01-13/mnflsm/863572/1610518742bCiRUflk/Footer_FB.png" style="display: block;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="22"> </a></td>
+																																						</tr>
+																																					</tbody>
+																																				</table>
+																																				</td>
+																																			</tr>
+																																		</tbody>
+																																	</table>
+																																	</td>
+																																</tr>
+																															</tbody>
+																														</table>
+																														<!--[if mso]> </td> <![endif]--><!--[if mso]> <td align="center" valign="top"> <![endif]-->
+
+																														<table align="left" border="0" cellpadding="0" cellspacing="0" style="display: inline;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+																															<tbody>
+																																<tr>
+																																	<td style="padding: 0 6px 0 6px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top">
+																																	<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																																		<tbody>
+																																			<tr>
+																																				<td align="left" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle">
+																																				<table align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="">
+																																					<tbody>
+																																						<tr>
+																																							<td align="center" style="line-height:1;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle" width="28" class=""><a href="https://www.instagram.com/privy_id/" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-weight: normal;text-decoration: none;" target="_blank"><img height="28" src="https://go.privy.id/l/863572/2021-01-13/mnflsw/863572/1610518788nrVZIv6P/Footer_IG.png" style="display: block;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="22"> </a></td>
+																																						</tr>
+																																					</tbody>
+																																				</table>
+																																				</td>
+																																			</tr>
+																																		</tbody>
+																																	</table>
+																																	</td>
+																																</tr>
+																															</tbody>
+																														</table>
+																														<!--[if mso]> </td> <![endif]--><!--[if mso]> <td align="center" valign="top"> <![endif]-->
+
+																														<table align="left" border="0" cellpadding="0" cellspacing="0" style="display: inline;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+																															<tbody>
+																																<tr>
+																																	<td style="padding: 0 6px 0 6px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top">
+																																	<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																																		<tbody>
+																																			<tr>
+																																				<td align="left" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle">
+																																				<table align="left" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="">
+																																					<tbody>
+																																						<tr>
+																																							<td align="center" style="line-height:1;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle" width="28" class=""><a href="https://www.linkedin.com/company/privyid" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #000000;font-weight: normal;text-decoration: none;" target="_blank"><img height="28" src="https://go.privy.id/l/863572/2021-01-13/mnflsy/863572/1610518889HT1cj0vz/Footer_Linkedin.png" style="display: block;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="22"> </a></td>
+																																						</tr>
+																																					</tbody>
+																																				</table>
+																																				</td>
+																																			</tr>
+																																		</tbody>
+																																	</table>
+																																	</td>
+																																</tr>
+																															</tbody>
+																														</table>
+																														<!--[if mso]> </td> <![endif]--><!--[if mso]> </tr> </table> <![endif]--></td>
+																													</tr>
+																												</tbody>
+																											</table>
+																											</td>
+																										</tr>
+																									</tbody>
+																								</table>
+																								</td>
+																							</tr>
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</div>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															<!-- Contacts -->
+
+															<table border="0" cellpadding="0" cellspacing="0" style="max-width: 600px;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																<tbody>
+																	<tr>
+																		<td style="padding-top: 8px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top"><!--[if mso]> <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;"> <tr> <![endif]--><!--[if mso]> <td align="center" valign="top" width="100%" style="width:100%; max-width:600px;"> <![endif]-->
+																		<table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:600px;font-size: 14px; text-align: center; max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																			<tbody>
+																				<tr style="display: inline-block;">
+																					<td align="center" class=""><a class="dark-link" href="https://privy.id/?utm_source=pardot&amp;utm_medium=email&amp;utm_campaign=autoresponder_casestudy_mandiri&amp;utm_content=homepage" style="color: #000000; text-decoration: none;">www.privy.id</a></td>
+																				</tr>
+																				<tr style="display: inline-block;">
+																					<td align="center" style="color: #000000; text-decoration: none;padding: 0 10px 0 10px;" class="">|&nbsp;&nbsp;PT Privy Identitas Digital&nbsp;&nbsp;|</td>
+																				</tr>
+																				<tr style="display: inline-block;">
+																					<td align="center" class=""><a class="dark-link" href="mailto:helpdesk@privy.id" style="color: #000000; text-decoration: none;">helpdesk@privy.id</a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		<!--[if mso]> </td> <![endif]--><!--[if mso]> </tr> </table> <![endif]--></td>
+																	</tr>
+																</tbody>
+															</table>
+															<!-- Address -->
+
+															<table border="0" cellpadding="0" cellspacing="0" style="max-width: 600px;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																<tbody>
+																	<tr>
+																		<td style="padding-top: 5px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top"><!--[if mso]> <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;"> <tr> <![endif]--><!--[if mso]> <td align="center" valign="top" width="100%" style="width:100%; max-width:600px;"> <![endif]-->
+																		<table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:600px;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																			<tbody>
+																				<tr>
+																					<td align="center" style="font-size: 14px; mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #000000;font-size: 13px;line-height: 150%;text-align: center;" valign="top" class="">Jl. Kemang Raya No. 34 Jakarta Selatan 12730</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		<!--[if mso]> </td> <![endif]--><!--[if mso]> </tr> </table> <![endif]--></td>
+																	</tr>
+																</tbody>
+															</table>
+															<!-- Helpful Links -->
+
+															<table border="0" cellpadding="0" cellspacing="0" style="max-width: 600px;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																<tbody>
+																	<tr>
+																		<td style="padding-top: 5px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="top"><!--[if mso]><table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;"><tr><![endif]--><!--[if mso]><td valign="top" width="100%" style="width:100%; max-width:600px;"><![endif]-->
+																		<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width:600px;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%">
+																			<tbody>
+																				<tr>
+																					<td style="font-size: 14px; mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #FFFFFF;font-family: Open Sans, Arial, Verdana, sans-serif;font-size: 13px;line-height: 150%;text-align: center;" valign="top" class="">
+																					<div style="text-align: center;"><a class="link" href="https://privy.id/terms-of-use?utm_source=pardot&amp;utm_medium=email&amp;utm_campaign=autoresponder_casestudy_mandiri&amp;utm_content=terms_of_use" style="padding: 5px 5px;font-weight: bold;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: #f21010;">Terms of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="link" href="https://privy.id/privacy-policy?utm_source=pardot&amp;utm_medium=email&amp;utm_campaign=autoresponder_casestudy_mandiri&amp;utm_content=privacy_policy" style="padding: 5px 5px;font-weight: bold;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: #f21010;">Privacy Policy</a> ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="link" href="{{unsubscribe}}" style="padding: 5px 5px;font-weight: bold;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;text-decoration: none;color: #f21010;">Unsubscribe </a></div>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		<!--[if mso]></td><![endif]--><!--[if mso]></tr></table><![endif]--></td>
+																	</tr>
+																</tbody>
+															</table>
+															<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--><!-- Footer --></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</style>
+</head>
+</html>
